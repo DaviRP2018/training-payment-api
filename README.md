@@ -99,12 +99,3 @@ Critérios ordenados por ordem de peso decrescente:
 ## Eliminatórios
 
 1. Copiar ou "se inspirar" em código alheio é _veementemente_ vetado ✋
-
-## Submissão
-
-Ao finalizar a implementação, o diretório da solução pode ser submetido de duas formas:
-
-1. através de um _fork_ e um _pull request_ neste repositório ou
-1. por email, compactado, para `it@t10.digital` com o assunto `Backend Assessment`
-
-Feito 🤘
